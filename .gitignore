@@ -1,4 +1,5 @@
 lemonbar
 *.o
 *.swp
+*.1
 *~
