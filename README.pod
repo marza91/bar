@@ -69,6 +69,10 @@ Add a vertical offset to the text. I<offset> must be a number and can be negativ
 
 Set the underline color of the bar. Accepts the same color formats as B<-B>.
 
+=item B<-s>
+
+Disable EWMH strut settings.
+
 =back
 
 =head1 FORMATTING
